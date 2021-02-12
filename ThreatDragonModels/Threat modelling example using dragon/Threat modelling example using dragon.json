@@ -1,0 +1,17 @@
+{
+  "summary": {
+    "title": "Threat modelling example using dragon",
+    "owner": "Mark freer",
+    "description": "This is high level threat model"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "fitness-webapp",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
